@@ -1,0 +1,161 @@
+  @font-face {
+    font-family: Tahoma;
+    src: url(TAHOMA_0.TTF);
+}
+@font-face {
+    font-family: Rockwell;
+    src: url(ROCK.TTF);
+}
+@font-face {
+    font-family: Verdana;
+    src: url(Verdanab.ttf);
+}
+.section01{
+    font-family: Tahoma;
+    font-size: 1.5vw;
+}
+.section02{
+    font-family: Rockwell;
+}
+.section03{
+    font-family: Rockwell;
+}
+.section04{
+    font-family: Verdana;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+.section01 h1{
+    margin-top: -50vw;
+    margin-left: 19vw;
+}
+.section01 p{
+    margin-left: 51%;
+    padding-bottom: 31%;
+}
+.blur-blacklight{
+    height: 80vw;
+}
+.muka {
+    height: 30vw;
+    position: absolute;
+    margin-top: -60vw;
+    margin-left: 33vw;
+}
+.section02 h1{
+    font-size: 4vw;
+    margin-top: 15vw;
+}
+.section02 img{
+    height: 30vw;
+    margin-left: 1vw;
+}
+.section02 .desc .name{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.section02 .description{
+    margin-left: 20vw;
+    position: absolute;
+    margin-top: -30vw;
+}
+.ai-lightroom{
+    display: flex;
+}
+.photoshop-xd{
+    display: flex;
+}
+.ai-bar{
+    height: 10px;
+    width: 100px;
+    background: linear-gradient(to right, red 60%, white 100%);
+    position: absolute;
+}
+.lightroom-skill{
+    padding-left: 5vw;
+}
+.lightroom-bar{
+    height: 10px;
+    width: 100px;
+    background: linear-gradient(to right, red 55%, white 100%);
+    position: absolute;
+}
+.xd-skill{
+    padding-left: 4.5vw;
+}
+.xd-bar{
+    height: 10px;
+    width: 100px;
+    background: linear-gradient(to right, red 55%, white 100%);
+    position: absolute;
+}
+.photoshop-bar{
+    height: 10px;
+    width: 100px;
+    background: linear-gradient(to right, red 50%, white 100%);
+    position: absolute;
+}
+.section03 h1{
+    text-align: right;
+    margin-right: 3vw;
+    font-size: 3vw;
+}
+.section03 .designing{
+    text-align: right;
+    margin-right: 3vw;
+    font-size: 2vw;
+}
+.section03 img{
+    height: 20vw;
+    padding-left: 7vw;
+}
+.chardesign{
+    font-size: 3vw;
+    margin-right: 4vw;
+    text-align: right;
+}
+.webdesign{
+    font-size: 3vw;
+    margin-right: 4vw;
+    text-align: right;
+}
+.contact{
+    font-size: 5vw;
+}
+.instagram{
+    text-align: right;
+    margin-right: 3vw;
+}
+.section04 img{
+    background-color: white;
+    border: 0.5vw solid white;
+    border-radius: 1vw;
+}
+.whatsapp{
+    margin-left: 3vw;
+    display: flex;
+}
+.email{
+    margin-left: 3vw;
+    display: flex;
+}
+.whatsappdesc{
+    padding-left: 3vw;
+}
+.emaildesc{
+    padding-left: 3.5vw;
+}
+.email img{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
+.instagram{
+    display: flex;
+    margin-left: 83vw;
+}
